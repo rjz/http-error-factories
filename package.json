@@ -1,10 +1,14 @@
 {
   "name": "http-error-factories",
   "version": "0.0.1",
-  "description": "Wrap HTTP errors in friendly-named factory functions",
+  "description": "Factory functions for http-custom-errors",
   "main": "index.js",
   "dependencies": {
     "http-custom-errors": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rjz/http-error-factories"
   },
   "devDependencies": {
     "jshint": "^2.5.2",
